@@ -4,7 +4,7 @@
   
   <br/>
   
-  <img align="right" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"/>
+  <img align="right" src="https://media0.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif?cid=ecf05e47do75hslxrhcfopoidv5iry5cu3jvt1j30i03xady&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
   
 
   <div align="left">
